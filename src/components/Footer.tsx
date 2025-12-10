@@ -9,7 +9,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center space-x-2 mb-6">
               <Gamepad className="h-6 w-6 text-game" />
-              <span className="text-xl font-bold text-white">GameHostHaven</span>
+              <span className="text-xl font-bold text-white">Legacy cloud</span>
             </div>
             <p className="text-gray-400 mb-6">
               Premium game server hosting with high performance hardware, global network, and 24/7 support for gamers worldwide.
@@ -31,25 +31,25 @@ const Footer = () => {
           </div>
           
           <div>
-            <h3 className="text-lg font-bold mb-6">Games</h3>
+            <h3 className="text-lg font-bold mb-6">Discord links</h3>
             <ul className="space-y-4">
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Minecraft</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">ARK: Survival Evolved</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Counter-Strike 2</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Rust</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Valheim</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">View All Games</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">discord 1</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">discord 2</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">discord 3</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">discord 4</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">discord 5</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">click me</a></li>
             </ul>
           </div>
           
           <div>
             <h3 className="text-lg font-bold mb-6">Company</h3>
             <ul className="space-y-4">
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">About Us</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Blog</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Careers</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Privacy Policy</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Terms of Service</a></li>
+              <li><a href="https://blinime.vercel.app/home" className="text-gray-400 hover:text-white transition-colors">Anime website</a></li>
+              <li><a href="https://blisstune.netlify.app/" className="text-gray-400 hover:text-white transition-colors">radio website</a></li>
+              <li><a href="https://arimadev.vercel.app/" className="text-gray-400 hover:text-white transition-colors">portfolio of dev</a></li>
+              <li><a href="https://bliglob.vercel.app/" className="text-gray-400 hover:text-white transition-colors">global chatapp</a></li>
+              <li><a href="https://discord.gg/" className="text-gray-400 hover:text-white transition-colors">bliss cafe</a></li>
             </ul>
           </div>
           
@@ -58,7 +58,7 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 text-game mr-3 mt-0.5" />
-                <span className="text-gray-400">123 Server Lane, Cloud City, 94043</span>
+                <span className="text-gray-400">N/A</span>
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 text-game mr-3" />
@@ -66,7 +66,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-game mr-3" />
-                <span className="text-gray-400">support@gamehosthaven.com</span>
+                <span className="text-gray-400">mailto:gfxethion@gmail.com</span>
               </li>
             </ul>
           </div>
