@@ -33,12 +33,12 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-bold mb-6">Discord links</h3>
             <ul className="space-y-4">
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">discord 1</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">discord 2</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">discord 3</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">discord 4</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">discord 5</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">click me</a></li>
+              <li><a href="https://discord.gg/RZr8nKEReq" className="text-gray-400 hover:text-white transition-colors">discord 1</a></li>
+              <li><a href="https://discord.gg/RZr8nKEReq" className="text-gray-400 hover:text-white transition-colors">discord 2</a></li>
+              <li><a href="https://discord.gg/RZr8nKEReq" className="text-gray-400 hover:text-white transition-colors">discord 3</a></li>
+              <li><a href="https://discord.gg/RZr8nKEReq" className="text-gray-400 hover:text-white transition-colors">discord 4</a></li>
+              <li><a href="https://discord.gg/RZr8nKEReq" className="text-gray-400 hover:text-white transition-colors">discord 5</a></li>
+              <li><a href="https://discord.gg/jH7HpVQbH3" className="text-gray-400 hover:text-white transition-colors">click me</a></li>
             </ul>
           </div>
           
@@ -49,7 +49,7 @@ const Footer = () => {
               <li><a href="https://blisstune.netlify.app/" className="text-gray-400 hover:text-white transition-colors">radio website</a></li>
               <li><a href="https://arimadev.vercel.app/" className="text-gray-400 hover:text-white transition-colors">portfolio of dev</a></li>
               <li><a href="https://bliglob.vercel.app/" className="text-gray-400 hover:text-white transition-colors">global chatapp</a></li>
-              <li><a href="https://discord.gg/" className="text-gray-400 hover:text-white transition-colors">bliss cafe</a></li>
+              <li><a href="https://discord.gg/jH7HpVQbH3" className="text-gray-400 hover:text-white transition-colors">bliss cafe</a></li>
             </ul>
           </div>
           
