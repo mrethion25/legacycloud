@@ -1,4 +1,3 @@
-
 import { Check } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
@@ -32,11 +31,14 @@ const pricingPlans = [
       "24/7 Priority Support",
       "Automatic Backups",
       "Amd: Ryzen9 5900X",
-    ],   
-    {
+    ],
+    popular: false,
+    buttonText: "Upgrade",
+  },
+  {
     name: "custom plan",
     price: "N/A",
-    description: "Ideal for growing communities",
+    description: "Custom hardware and pricing tailored to you",
     features: [
       "best processor: ₹55/gb",
       "premium processor: ₹45/gb",
@@ -44,7 +46,7 @@ const pricingPlans = [
       "budget processor: ₹20/gb",
       "best processor = Amd: Ryzen9 5900X",
       "premium processor = Amd: Ryzen9 9950X",
-      "standard plane: Amd: EPYC 7C13",
+      "standard plan: Amd: EPYC 7C13",
       "budget processor: Intel Xeon E5-2667 V4",
     ],
     popular: true,
