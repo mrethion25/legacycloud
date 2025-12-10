@@ -47,7 +47,7 @@ const pricingPlans = [
       "standard plane: Amd: EPYC 7C13",
       "budget processor: Intel Xeon E5-2667 V4",
     ],
-    
+    {
     popular: true,
     buttonText: "Choose Premium",
   },
