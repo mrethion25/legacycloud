@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 const gameServers = [
   {
     name: "Minecraft",
-    imageUrl: "https://images.unsplash.com/photo-1627398342588-4be110f247e9?w=600&auto=format&q=80",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYg6Y50il48dY_iasRqv37LjS9AdEEtLnOAvzLFOXKe-pViQ62JL0zFrd&s=10",
     description: "Host vanilla or modded Minecraft servers with automatic backups and plugin support.",
   },
   {
