@@ -34,8 +34,8 @@ const pricingPlans = [
       "Amd: Ryzen9 5900X",
     ],   
     {
-     name: "custom plan",
-   price: "N/A",
+    name: "custom plan",
+    price: "N/A",
     description: "Ideal for growing communities",
     features: [
       "best processor: ₹55/gb",
