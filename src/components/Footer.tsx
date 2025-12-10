@@ -73,7 +73,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 pt-8 text-center text-gray-500 text-sm">
-          <p>&copy; {new Date().getFullYear()} GameHostHaven. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Arima 🤝 legacycloud. All rights reserved.</p>
         </div>
       </div>
     </footer>
