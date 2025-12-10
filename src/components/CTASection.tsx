@@ -18,7 +18,7 @@ const CTASection = () => {
           </div>
           
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
-            Ready to Level Up Your <span className="text-gradient">Game Hosting</span>?
+            Ready to Level Up Your <span className="text-gradient">Legacycloud</span>?
           </h2>
           
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
@@ -30,7 +30,7 @@ const CTASection = () => {
             <Button variant="outline" className="border-game hover:bg-game/10 px-8 py-6 text-lg">Contact Sales</Button>
           </div>
           
-          <p className="mt-6 text-gray-400">No credit card required. 7-day free trial.</p>
+          <p className="mt-6 text-gray-400">join discord 👀</p>
         </div>
       </div>
     </section>
